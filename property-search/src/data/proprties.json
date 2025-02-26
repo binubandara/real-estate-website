@@ -1,0 +1,266 @@
+{
+    "properties": [
+      {
+        "id": "prop1",
+        "type": "House",
+        "bedrooms": 3,
+        "price": 750000,
+        "tenure": "Freehold",
+        "description": "Attractive three bedroom semi-detached family home situated within 0.5 miles of Petts Wood station with fast trains to London and within easy walking distance of local shops, schools, bus routes and National Trust woodland. The property comprises; two receptions, fitted 18'9 x 10'1 kitchen/breakfast room and conservatory.",
+        "longDescription": "Nestled in the charming Petts Wood area, this semi-detached family home offers a harmonious blend of comfort and convenience. With its spacious layout spanning two floors, the property is ideal for growing families. Upon entering, you are welcomed into a bright entrance hallway leading to two versatile reception rooms perfect for entertaining or relaxation. The modern, fitted kitchen/breakfast room is a highlight, featuring ample storage and workspace. The adjoining conservatory floods the space with natural light and provides seamless access to a beautifully maintained garden. Upstairs, three generously-sized bedrooms offer restful retreats, complemented by a stylish family bathroom and a separate WC. Additional features include a private driveway, garage, and recent upgrades such as a new boiler and double glazing. This property is just a short walk from Petts Wood station, offering excellent commuter links, and is surrounded by local shops, reputable schools, and scenic National Trust woodlands.",
+        "location": "Petts Wood Road, Petts Wood, Orpington BR5",
+        "postcode": "BR5",
+        "images": [
+          "/images/prop1/1.jpg",
+          "/images/prop1/2.jpg",
+          "/images/prop1/3.jpg",
+          "/images/prop1/4.jpg",
+          "/images/prop1/5.jpg",
+          "/images/prop1/6.jpg"
+        ],
+        "floorPlan": "/images/prop1/floorplan.png",
+        "added": {
+          "month": "October",
+          "day": 12,
+          "year": 2024
+        },
+        "coordinates": {
+          "lat": 51.376165,
+          "lng": 0.071344
+        }
+      },
+      {
+        "id": "prop2",
+        "type": "Flat",
+        "bedrooms": 2,
+        "price": 399995,
+        "tenure": "Leasehold",
+        "description": "Modern two bedroom, two bathroom garden flat with excellent transport links.",
+        "longDescription": "Experience contemporary living in this beautifully designed garden flat, offering an ideal setup for professionals or small families. This property features two spacious double bedrooms, each offering tranquility and ample storage. The master bedroom is paired with a luxurious en-suite, while the second bathroom is finished to a high standard with a three-piece suite. The heart of the home is the open-plan living area, where a sleek kitchen with integrated appliances—including a dishwasher and washing machine—seamlessly flows into the dining and lounge spaces. Solid wood flooring and large windows enhance the modern aesthetic, while French doors lead to a private garden, perfect for outdoor relaxation. Located on Crofton Road, the flat boasts excellent transport links and access to local amenities, making it a superb choice for a convenient yet stylish lifestyle.",
+        "location": "Crofton Road, Orpington BR6",
+        "postcode": "BR6",
+        "images": [
+          "/images/prop2/1.jpg",
+          "/images/prop2/2.jpg",
+          "/images/prop2/3.jpg",
+          "/images/prop2/4.jpg",
+          "/images/prop2/5.jpg",
+          "/images/prop2/6.jpg"
+        ],
+        "floorPlan": "/images/prop2/floorplan.png",
+        "added": {
+          "month": "September",
+          "day": 14,
+          "year": 2024
+        },
+        "coordinates": {
+          "lat": 51.371234,
+          "lng": 0.098765
+        }
+      },
+      {
+        "id": "prop3",
+        "type": "House",
+        "bedrooms": 4,
+        "price": 899999,
+        "tenure": "Freehold",
+        "description": "Stunning four bedroom detached house with modern amenities and garden.",
+        "longDescription": "This exquisite detached home epitomizes modern elegance and functionality. Situated in the sought-after Chislehurst Road area, this property boasts an expansive floor plan that caters to family living and entertaining. The grand entrance hall sets the tone, leading to a spacious living room with a feature fireplace and a separate formal dining room. The kitchen/family room is the centerpiece, equipped with top-of-the-line appliances, ample storage, and bi-folding doors that open to the landscaped garden. Upstairs, four generously sized bedrooms ensure comfort for all family members, with the master suite featuring a luxurious en-suite bathroom. Additional highlights include a double garage, off-street parking, and proximity to excellent schools, local amenities, and transport links.",
+        "location": "Chislehurst Road, Bromley BR1",
+        "postcode": "BR1",
+        "images": [
+          "/images/prop3/1.jpg",
+          "/images/prop3/2.jpg",
+          "/images/prop3/3.jpg",
+          "/images/prop3/4.jpg",
+          "/images/prop3/5.jpg",
+          "/images/prop3/6.jpg"
+        ],
+        "floorPlan": "/images/prop3/floorplan.png",
+        "added": {
+          "month": "December",
+          "day": 1,
+          "year": 2024
+        },
+        "coordinates": {
+          "lat": 51.412345,
+          "lng": 0.023456
+        }
+      },
+      {
+        "id": "prop4",
+        "type": "Bungalow",
+        "bedrooms": 4,
+        "price": 750000,
+        "tenure": "Freehold",
+        "description": "Modern four-bedroom bungalow with open-plan living and stunning views.",
+        "longDescription": "Discover the perfect blend of style and tranquility in this beautifully renovated bungalow, located on Hillside Drive. The property is designed with modern living in mind, featuring an expansive open-plan living and dining area flooded with natural light. The state-of-the-art kitchen boasts high-end finishes, making it a chef’s delight. Each of the four bedrooms offers ample space, with the master suite including an en-suite bathroom. Step outside to enjoy the large decked terrace, which provides breathtaking panoramic views of the countryside. The meticulously landscaped garden is perfect for hosting gatherings or enjoying peaceful afternoons. With ample parking and a serene location, this property is a haven for families or retirees seeking luxury and comfort.",
+        "location": "Hillside Drive, Sevenoaks TN13",
+        "postcode": "TN13",
+        "images": [
+          "/images/prop4/1.jpg",
+          "/images/prop4/2.jpg",
+          "/images/prop4/3.jpg",
+          "/images/prop4/4.jpg",
+          "/images/prop4/5.jpg",
+          "/images/prop4/6.jpg"
+        ],
+        "floorPlan": "/images/prop4/floorplan.png",
+        "added": {
+          "month": "December",
+          "day": 15,
+          "year": 2024
+        },
+        "coordinates": {
+          "lat": 51.271234,
+          "lng": 0.189765
+        }
+      },
+      {
+        "id": "prop5",
+        "type": "House",
+        "bedrooms": 5,
+        "price": 1250000,
+        "tenure": "Freehold",
+        "description": "Luxurious five bedroom detached house with swimming pool.",
+        "longDescription": "This remarkable five-bedroom detached home redefines luxury living. Situated in the prestigious Avenue neighborhood, the property offers over 4,000 square feet of meticulously designed living space. The ground floor comprises a grand entrance hall, three versatile reception rooms, and a gourmet kitchen/breakfast room with premium appliances and finishes. A dedicated utility room and an indoor swimming pool complex enhance the lifestyle appeal. Upstairs, five generously proportioned bedrooms, including a sumptuous master suite with an en-suite, provide private sanctuaries for all family members. The landscaped garden, complete with a patio area, is perfect for entertaining or unwinding. Located near top-rated schools and local amenities, this home combines sophistication and practicality.",
+        "location": "The Avenue, Beckenham BR3",
+        "postcode": "BR3",
+        "images": [
+          "/images/prop5/1.jpg",
+          "/images/prop5/2.jpg",
+          "/images/prop5/3.jpg",
+          "/images/prop5/4.jpg",
+          "/images/prop5/5.jpg",
+          "/images/prop5/6.jpg"
+        ],
+        "floorPlan": "/images/prop5/floorplan.png",
+        "added": {
+          "month": "December",
+          "day": 10,
+          "year": 2024
+        },
+        "coordinates": {
+          "lat": 51.412345,
+          "lng": -0.023456
+        }
+      },
+      {
+        "id": "prop6",
+        "type": "Flat",
+        "bedrooms": 3,
+        "price": 550000,
+        "tenure": "Leasehold",
+        "description": "Spacious three bedroom penthouse apartment with roof terrace.",
+        "longDescription": "Perched above the bustling Canary Wharf district, this penthouse apartment offers a luxurious urban lifestyle. The property features a spacious open-plan kitchen and living area with high-end appliances and panoramic city views. The master suite includes a contemporary en-suite bathroom, while the additional two bedrooms provide flexibility for guests or a home office. A private roof terrace offers a serene retreat, ideal for entertaining or enjoying sunsets over London. Residents benefit from secure parking, a 24-hour concierge service, and proximity to the vibrant Canary Wharf shopping and dining scene.",
+        "location": "Canary Wharf, London E14",
+        "postcode": "E14",
+        "images": [
+          "/images/prop6/1.jpg",
+          "/images/prop6/2.jpg",
+          "/images/prop6/3.jpg",
+          "/images/prop6/4.jpg",
+          "/images/prop6/5.jpg",
+          "/images/prop6/6.jpg"
+        ],
+        "floorPlan": "/images/prop6/floorplan.jpg",
+        "added": {
+          "month": "November",
+          "day": 28,
+          "year": 2024
+        },
+        "coordinates": {
+          "lat": 51.504567,
+          "lng": -0.019876
+        }
+      },
+      {
+        "id": "prop7",
+        "type": "House",
+        "bedrooms": 2,
+        "price": 425000,
+        "tenure": "Freehold",
+        "description": "Charming two bedroom cottage with period features.",
+        "longDescription": "Step into a world of charm and character with this enchanting two-bedroom period cottage, located on Chislehurst High Street. Perfectly blending historical details with modern conveniences, the property features a cozy living room with an original fireplace, a country-style kitchen complete with an Aga, and two spacious double bedrooms. The modern bathroom is thoughtfully designed, complementing the cottage's traditional aesthetic. Outside, a picturesque garden provides a peaceful escape, while off-street parking ensures convenience. With its prime location near local boutiques, cafes, and transport links, this property is a rare gem.",
+        "location": "High Street, Chislehurst BR7",
+        "postcode": "BR7",
+        "images": [
+          "/images/prop7/1.jpg",
+          "/images/prop7/2.jpg",
+          "/images/prop7/3.jpg",
+          "/images/prop7/4.jpg",
+          "/images/prop7/5.jpg",
+          "/images/prop7/6.jpg"
+        ],
+        "floorPlan": "/images/prop7/floorplan.png",
+        "added": {
+          "month": "December",
+          "day": 5,
+          "year": 2024
+        },
+        "coordinates": {
+          "lat": 51.412345,
+          "lng": 0.067890
+        }
+      },
+
+      {
+        "id": "prop8",
+        "type": "Bungalow",
+        "bedrooms": 3,
+        "price": 650000,
+        "tenure": "Freehold",
+        "description": "Spacious three-bedroom bungalow with a large garden in a quiet neighborhood.",
+        "longDescription": "Situated in a peaceful Bromley neighborhood, this spacious bungalow is a perfect family home. The property boasts a light-filled living room, a modern fitted kitchen, and three generously sized double bedrooms. The family bathroom is designed for practicality and style. Outside, the beautifully landscaped garden features a patio area ideal for alfresco dining, while a detached garage and off-street parking provide ample space for vehicles. This home is located near excellent schools and local amenities, offering a blend of comfort and convenience.",
+        "location": "Oak Lane, Bromley BR2",
+        "postcode": "BR2",
+        "images": [
+          "/images/prop8/1.jpg",
+          "/images/prop8/2.jpg",
+          "/images/prop8/3.jpg",
+          "/images/prop8/4.jpg",
+          "/images/prop8/5.jpg",
+          "/images/prop8/6.jpg"
+        ],
+        "floorPlan": "/images/prop8/floorplan.png",
+        "added": {
+          "month": "November",
+          "day": 20,
+          "year": 2024
+        },
+        "coordinates": {
+          "lat": 51.389012,
+          "lng": 0.044567
+        }
+      },
+      {
+        "id": "prop9",
+        "type": "Flat",
+        "bedrooms": 1,
+        "price": 275000,
+        "tenure": "Leasehold",
+        "description": "Charming one bedroom flat in converted Victorian building.",
+        "longDescription": "This beautifully presented one-bedroom flat occupies the top floor of a grand Victorian conversion on Camden High Street. High ceilings, sash windows, and period features create a timeless appeal, while the modern kitchen and bathroom provide contemporary comfort. The bright reception room offers a welcoming space to relax or entertain. Ideally located in the heart of Camden, the flat is just moments away from vibrant markets, cafes, and excellent transport links. Perfect for first-time buyers or investors, this property combines character with a prime location.",
+        "location": "Camden High Street, London NW1",
+        "postcode": "NW1",
+        "images": [
+          "/images/prop9/1.jpg",
+          "/images/prop9/2.jpg",
+          "/images/prop9/3.jpg",
+          "/images/prop9/4.jpg",
+          "/images/prop9/5.jpg",
+          "/images/prop9/6.jpg"
+        ],
+        "floorPlan": "/images/prop9/floorplan.jpg",
+        "added": {
+          "month": "November",
+          "day": 15,
+          "year": 2024
+        },
+        "coordinates": {
+          "lat": 51.539012,
+          "lng": -0.142789
+        }
+      }     
+    ]
+  }
